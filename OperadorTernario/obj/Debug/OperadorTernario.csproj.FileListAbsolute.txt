@@ -1,0 +1,7 @@
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe.config
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.pdb
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csprojResolveAssemblyReference.cache
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.exe
+C:\Users\Charls\Documents\Visual Studio 2017\Projects\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.pdb
